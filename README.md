@@ -1,6 +1,5 @@
 ## Hi there, I'm Mohamed Bashid! 👋
-***
-Aspiring Data Engineer with a strong passion for building scalable data solutions.
+***Aspiring Data Engineer with a strong passion for building scalable data solutions.
 
 ### Skills & Expertise:
 ***
