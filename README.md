@@ -1,8 +1,7 @@
 ## Hi there, I'm Mohamed Bashid! 👋
 Aspiring Data Engineer with a strong passion for building scalable data solutions.
 
-### Skills & Expertise: 
-***
+### Skills & Expertise: ***
 * **SQL:** Data modeling, querying, optimization, and database management\
 * **PySpark:** Data processing and transformation at scale\
 * **Azure Data Factory:** Data orchestration, ETL workflows, and automation\
